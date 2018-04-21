@@ -6,7 +6,6 @@ import com.frei.test.springtask.objects.Car;
 import org.springframework.web.bind.annotation.RestController;
 
 import java.util.Collection;
-import java.util.stream.Collector;
 import java.util.stream.Collectors;
 
 @RestController
